@@ -1,0 +1,58 @@
+body{
+    /* background-color: aqua; */
+    background-image: linear-gradient(green,blue,red);
+    height: 100vh;
+    width: 90%;
+}
+div{margin:auto;
+    background-color:white;
+    height: 60vh;
+    width: 50%;
+    border: solid black 10px;
+     padding-top:40px;
+     padding-left: 40px;
+     padding-right: 30px;
+     background-image: url("1933.jpg");
+    }
+.saba{
+    margin:0 auto;
+    border: solid black 5px;
+    height: 10%;
+    width: 60%;
+    padding-left: 30%;
+}
+
+h1{
+    margin:left;
+    margin-top: 5%;
+}
+.saba1{
+    margin:0 auto;
+    border: solid black 5px;
+    height: 10%;
+    width: 60%;
+    padding-left: 30%;
+}
+.saba2{
+    margin:0 auto;
+    border: solid black 5px;
+    height: 10%;
+    width: 60%;
+    padding-left: 30%;
+}
+.saba3{
+    margin:0 auto;
+    border: solid black 5px;
+    height: 10%;
+    width: 20%;
+}
+
+i{
+    margin-left: -40px;
+}
+.button{
+    border:2px solid black;
+    margin-left: 450px;
+    height:30px;
+    width: 90px;
+}
